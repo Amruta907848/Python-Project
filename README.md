@@ -1,4 +1,4 @@
-# Shortest Path Finding System
+# Shortest Path Finding System for DAA
 
 A Python-based graphical application that helps users create a weighted graph and find shortest paths between vertices. It provides an interactive interface built with **Tkinter** and demonstrates two classic graph algorithms: **Dijkstra's Algorithm** and **Floyd–Warshall Algorithm**.
 
